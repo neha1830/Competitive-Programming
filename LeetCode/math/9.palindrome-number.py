@@ -3,7 +3,6 @@
 #
 # [9] Palindrome Number
 #
-
 # @lc code=start
 class Solution:
     def isPalindrome(self, x: int) -> bool:

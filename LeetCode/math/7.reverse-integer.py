@@ -17,4 +17,3 @@ class Solution:
             res = -res
         return 0 if res > pow(2,31) or res < pow(-2,31) else min(res,pow(2,31))
     # @lc code=end
-

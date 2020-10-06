@@ -29,6 +29,5 @@ class Solution:
         if t %2 == 0:
             return (nums1[t//2] + nums1[t//2 - 1])/2  
         return nums1[t//2] 
-        
         # @lc code=end
 

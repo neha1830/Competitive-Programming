@@ -19,6 +19,5 @@ class Solution:
                 stack.append(i)
             
         return not stack
-        
 # @lc code=end
 

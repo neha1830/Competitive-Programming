@@ -20,6 +20,5 @@ class Solution:
         if i == len(s) - 1:
             ans += d[s[i]]
         return ans
-
 # @lc code=end
 

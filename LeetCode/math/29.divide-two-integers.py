@@ -22,7 +22,6 @@ class Solution:
         if not pos:
             ans = -ans
         return min(max(-2**31, ans),2**31 -1)
-    
-        
+         
 # @lc code=end
 
